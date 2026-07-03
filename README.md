@@ -12,6 +12,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -22,6 +23,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +48,8 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
