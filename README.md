@@ -7,6 +7,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
+| [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
@@ -52,4 +53,5 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
+| [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
