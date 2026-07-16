@@ -10,6 +10,7 @@ Daily dsa solving on leetcode
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,11 +58,13 @@ Daily dsa solving on leetcode
 | ------- |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -74,8 +77,14 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
