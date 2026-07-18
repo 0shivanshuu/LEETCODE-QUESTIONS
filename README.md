@@ -6,6 +6,7 @@ Daily dsa solving on leetcode
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +86,7 @@ Daily dsa solving on leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -103,4 +105,8 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
