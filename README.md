@@ -14,6 +14,7 @@ Daily dsa solving on leetcode
 | [0485-max-consecutive-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
@@ -101,6 +102,7 @@ Daily dsa solving on leetcode
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -110,4 +112,8 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
