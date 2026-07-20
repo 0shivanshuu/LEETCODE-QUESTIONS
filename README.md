@@ -11,6 +11,7 @@ Daily dsa solving on leetcode
 | [0152-maximum-product-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
