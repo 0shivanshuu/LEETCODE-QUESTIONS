@@ -37,6 +37,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
