@@ -13,6 +13,7 @@ Daily dsa solving on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
@@ -78,6 +79,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -86,6 +88,7 @@ Daily dsa solving on leetcode
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
