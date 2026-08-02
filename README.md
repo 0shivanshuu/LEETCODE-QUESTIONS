@@ -15,6 +15,7 @@ Daily dsa solving on leetcode
 | [0485-max-consecutive-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
@@ -60,6 +61,7 @@ Daily dsa solving on leetcode
 | [0053-maximum-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -94,6 +96,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -171,4 +174,5 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
