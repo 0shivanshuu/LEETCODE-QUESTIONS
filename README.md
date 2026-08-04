@@ -40,6 +40,7 @@ Daily dsa solving on leetcode
 | [0217-contains-duplicate](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
+| [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -53,6 +54,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -172,6 +174,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
