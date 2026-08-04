@@ -30,6 +30,7 @@ Daily dsa solving on leetcode
 | [3513-number-of-unique-xor-triplets-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ Daily dsa solving on leetcode
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@ Daily dsa solving on leetcode
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
