@@ -8,6 +8,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [0041-first-missing-positive](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
@@ -38,6 +39,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0001-two-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
