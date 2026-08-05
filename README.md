@@ -80,6 +80,7 @@ Daily dsa solving on leetcode
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -209,4 +210,12 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
