@@ -11,6 +11,7 @@ Daily dsa solving on leetcode
 | [0041-first-missing-positive](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
@@ -186,6 +187,7 @@ Daily dsa solving on leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
