@@ -85,6 +85,7 @@ Daily dsa solving on leetcode
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -128,6 +129,7 @@ Daily dsa solving on leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -220,14 +222,17 @@ Daily dsa solving on leetcode
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -244,4 +249,12 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
