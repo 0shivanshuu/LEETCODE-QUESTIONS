@@ -134,6 +134,7 @@ Daily dsa solving on leetcode
 | [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -174,6 +175,7 @@ Daily dsa solving on leetcode
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2413-smallest-even-multiple) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -274,4 +276,8 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
