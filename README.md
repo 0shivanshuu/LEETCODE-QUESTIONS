@@ -261,4 +261,12 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
