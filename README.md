@@ -53,6 +53,7 @@ Daily dsa solving on leetcode
 | [0217-contains-duplicate](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -73,6 +74,7 @@ Daily dsa solving on leetcode
 | [0125-valid-palindrome](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -221,6 +223,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
@@ -299,4 +302,8 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
