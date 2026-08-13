@@ -31,6 +31,7 @@ Daily dsa solving on leetcode
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -188,6 +189,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
