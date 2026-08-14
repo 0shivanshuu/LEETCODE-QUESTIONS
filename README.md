@@ -57,6 +57,7 @@ Daily dsa solving on leetcode
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -66,6 +67,7 @@ Daily dsa solving on leetcode
 | [0209-minimum-size-subarray-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ Daily dsa solving on leetcode
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
