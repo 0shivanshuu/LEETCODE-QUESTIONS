@@ -1,15 +1,22 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
 
-        x=set()
+        t={}
 
         for i in nums:
-            if i in x:
+            t[i]=t.get(i,0)+1
+
+            if(t[i]==2):
                 return True
             
-            x.add(i)
         
         return False
+        
+
+
+
+
+
 
 
 
