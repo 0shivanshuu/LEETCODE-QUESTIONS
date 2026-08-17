@@ -32,6 +32,7 @@ Daily dsa solving on leetcode
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -105,6 +106,7 @@ Daily dsa solving on leetcode
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -150,6 +152,7 @@ Daily dsa solving on leetcode
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
@@ -257,6 +260,7 @@ Daily dsa solving on leetcode
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
