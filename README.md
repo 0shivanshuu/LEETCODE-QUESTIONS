@@ -39,6 +39,7 @@ Daily dsa solving on leetcode
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
