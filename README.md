@@ -41,6 +41,7 @@ Daily dsa solving on leetcode
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
+| [2643-row-with-maximum-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -233,6 +234,7 @@ Daily dsa solving on leetcode
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
 ## Combinatorics
 |  |
 | ------- |
