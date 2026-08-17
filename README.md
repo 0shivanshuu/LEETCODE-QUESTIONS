@@ -19,6 +19,7 @@ Daily dsa solving on leetcode
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ Daily dsa solving on leetcode
 | [0041-first-missing-positive](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -134,6 +136,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +239,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
@@ -282,6 +286,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
 ## Depth-First Search
 |  |
 | ------- |
