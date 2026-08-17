@@ -38,6 +38,7 @@ Daily dsa solving on leetcode
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2404-most-frequent-even-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -60,6 +61,7 @@ Daily dsa solving on leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [2404-most-frequent-even-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -237,6 +239,7 @@ Daily dsa solving on leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
+| [2404-most-frequent-even-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
