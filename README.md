@@ -32,6 +32,7 @@ Daily dsa solving on leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
@@ -240,6 +241,7 @@ Daily dsa solving on leetcode
 | [0566-reshape-the-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
