@@ -24,6 +24,7 @@ Daily dsa solving on leetcode
 | [0283-move-zeroes](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
+| [0566-reshape-the-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-transpose-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
@@ -216,6 +217,7 @@ Daily dsa solving on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
@@ -235,6 +237,7 @@ Daily dsa solving on leetcode
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
