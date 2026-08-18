@@ -25,6 +25,7 @@ Daily dsa solving on leetcode
 | [0485-max-consecutive-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0867-transpose-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -215,6 +216,7 @@ Daily dsa solving on leetcode
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -233,6 +235,7 @@ Daily dsa solving on leetcode
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
