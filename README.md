@@ -12,6 +12,7 @@ Daily dsa solving on leetcode
 | [0027-remove-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0152-maximum-product-subarray) |
@@ -141,6 +142,7 @@ Daily dsa solving on leetcode
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0229-majority-element-ii) |
@@ -199,6 +201,7 @@ Daily dsa solving on leetcode
 | [0011-container-with-most-water](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0283-move-zeroes) |
