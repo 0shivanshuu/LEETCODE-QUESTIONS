@@ -35,6 +35,7 @@ Daily dsa solving on leetcode
 | [1260-shift-2d-grid](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1386-cinema-seat-allocation](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ Daily dsa solving on leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [2404-most-frequent-even-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -238,6 +240,7 @@ Daily dsa solving on leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0011-container-with-most-water) |
+| [1386-cinema-seat-allocation](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -270,6 +273,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0136-single-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
