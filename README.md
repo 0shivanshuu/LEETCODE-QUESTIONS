@@ -377,5 +377,6 @@ Daily dsa solving on leetcode
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
