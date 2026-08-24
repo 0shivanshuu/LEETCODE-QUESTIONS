@@ -382,4 +382,5 @@ Daily dsa solving on leetcode
 | [1148-article-views-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1757-recyclable-and-low-fat-products) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
