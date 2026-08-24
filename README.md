@@ -42,6 +42,7 @@ Daily dsa solving on leetcode
 | [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
+| [1872-stone-game-viii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
@@ -126,6 +127,7 @@ Daily dsa solving on leetcode
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -175,6 +177,7 @@ Daily dsa solving on leetcode
 | [1492-the-kth-factor-of-n](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -196,6 +199,7 @@ Daily dsa solving on leetcode
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
@@ -303,6 +307,7 @@ Daily dsa solving on leetcode
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -310,12 +315,14 @@ Daily dsa solving on leetcode
 | ------- |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
