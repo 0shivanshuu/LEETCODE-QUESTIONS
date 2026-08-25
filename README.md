@@ -58,6 +58,7 @@ Daily dsa solving on leetcode
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -80,6 +81,7 @@ Daily dsa solving on leetcode
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
