@@ -49,6 +49,7 @@ Daily dsa solving on leetcode
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -164,6 +165,7 @@ Daily dsa solving on leetcode
 | [0977-squares-of-a-sorted-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3731-find-missing-elements) |
@@ -392,4 +394,8 @@ Daily dsa solving on leetcode
 | [1683-invalid-tweets](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1978-employees-whose-manager-left-the-company) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
