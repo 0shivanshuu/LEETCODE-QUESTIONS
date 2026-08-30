@@ -46,6 +46,7 @@ Daily dsa solving on leetcode
 | [1929-concatenation-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2643-row-with-maximum-ones) |
@@ -261,6 +262,7 @@ Daily dsa solving on leetcode
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
