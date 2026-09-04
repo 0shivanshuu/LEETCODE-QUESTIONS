@@ -108,6 +108,7 @@ Daily dsa solving on leetcode
 | [0242-valid-anagram](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/0709-to-lower-case) |
 | [1189-maximum-number-of-balloons](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/0shivanshuu/LEETCODE-QUESTIONS/tree/master/1903-largest-odd-number-in-string) |
